@@ -1,7 +1,7 @@
 ### Hi there 👋 thanks for stopping by
 
-I'm a fullstack software engineer with a background in IT Operations and Software Development. I have experience in Javascript, Typescript, React, C#, ASP.NET, MVC and other web technologies. Professionaly I have worked in IT now for over 6 years. I'm a very passionate and driven individual.
+I'm a Software Engineer in Test with previous experience in IT Support, Operations, and Development. I am fluent in Javascript, Typescript, C#, Rust, and SQL. I have exposure to several tech stacks and frameworks including React, Blazor, ASP.NET, and CodeIgniter. Professionaly I have worked in IT now for 6 years. I'm a very passionate and driven individual. Feel free to connect with me. 
 
-- 🔭 I’m currently working on QAForge a tool which uses AI to refactor and convert manual test cases to/from BDD tests.
-- 🌱 I'm interested in video games, music, automation, decentralization, crypto-currency, and artificial intelligence.
-- 📫 How to reach me: Telegram @itz4blitz
+- 🔭 I’m currently working on e2e mobile and web automation tests for several large enterprise applicants
+- 🌱 I'm interested in automation, decentralization, crypto-currency, and artificial intelligence.
+- 📫 Twitter @itz4blitz
