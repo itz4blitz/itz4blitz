@@ -3,33 +3,27 @@
 🚀 **Software Engineer in Test** | 🖥️ **DevOps & IT Specialist** | 🛠️ **Full-Stack Developer** | 🌐 **Automation Enthusiast**
 
 ## 📌 About Me
-
 I'm a tech aficionado with a diverse background, from IT infrastructure management to cutting-edge software engineering. Through transformative initiatives and impactful roles, I've shaped the tech landscape for several top-tier organizations.
 
-🏢 Currently spearheading automation testing at **SnapNurse**, driving efficiency with Playwright, Typescript, Node.js, and Github Actions.
-
-🍎 Previously, shared my knowledge as a **Software Development Trainer** at **Eleven Fifty Academy**, fostering the next generation of tech enthusiasts.
-
-🔧 Proudly enhanced IT infrastructures at **Bauer Hockey** & **Novelty Inc.**, ensuring optimized tech integrations and forward-thinking strategies.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/justinscroggins/)
+- 🏢 Currently spearheading automation testing at SnapNurse, driving efficiency with Playwright, Typescript, Node.js, and Github Actions.
+- 🍎 Previously, shared my knowledge as a Software Development Trainer at Eleven Fifty Academy, fostering the next generation of tech enthusiasts.
+- 🔧 Proudly enhanced IT infrastructures at Bauer Hockey & Novelty Inc., ensuring optimized tech integrations and forward-thinking strategies.
 
 ## 🛠️ Skills & Specialties
-
-- **Languages:** Javascript, Typescript, C#, Rust, Php, SQL
-- **Frameworks & Stacks:** Node.js, Electron, React, Tauri, Blazor, ASP.NET, CodeIgniter
-- **Tools & Tech:** Playwright, WebdriverIO, Appium, Github Actions, .NET, Web API, MVC, RMM, UEM
+- Languages: Javascript, Typescript, C#, Rust, Php, SQL
+- Frameworks & Stacks: Node.js, Electron, React, Tauri, Blazor, ASP.NET, CodeIgniter
+- Tools & Tech: Playwright, WebdriverIO, Appium, Github Actions, .NET, Web API, MVC, RMM, UEM
 
 ## 🌱 Interests
-
-I'm deeply invested in **automation**, **decentralization**, **cryptocurrency**, and exploring the vast realm of **artificial intelligence**. 
+I'm deeply invested in automation, decentralization, cryptocurrency, and exploring the vast realm of artificial intelligence.
 
 ## 📫 Let's Connect!
-
-- 🐦 **Twitter:** [@itz4blitz](https://twitter.com/itz4blitz)
-- 🌐 **Portfolio:** [justinscroggins.dev](https://justinscroggins.dev)
+- 🐦 Twitter: @itz4blitz
+- 🔗 LinkedIn
+- 🌐 Portfolio: justinscroggins.dev
 
 💡 Collaboration sparks innovation! Dive into my repositories and let's create something revolutionary.
+
 
 ## 🎖️ Certifications & Badges
 
