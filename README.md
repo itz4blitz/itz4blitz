@@ -1,5 +1,3 @@
-![Justin Scroggins](https://justinscroggins.dev/content/images/2023/05/me_Easy-Resize.com-4.jpg)
-
 # Hi there, I'm Justin Scroggins! 👋
 
 🚀 **Software Engineer in Test** | 🖥️ **DevOps & IT Specialist** | 🛠️ **Full-Stack Developer** | 🌐 **Automation Enthusiast**
