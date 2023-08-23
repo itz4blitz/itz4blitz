@@ -1,7 +1,3 @@
-# Hi there, I'm Justin Scroggins! 👋
-
-🚀 **Software Engineer in Test** | 🖥️ **DevOps & IT Specialist** | 🛠️ **Full-Stack Developer** | 🌐 **Automation Enthusiast**
-
 ## 📌 About Me
 I'm a tech aficionado with a diverse background, from IT infrastructure management to cutting-edge software engineering. Through transformative initiatives and impactful roles, I've shaped the tech landscape for several top-tier organizations.
 
@@ -18,9 +14,10 @@ I'm a tech aficionado with a diverse background, from IT infrastructure manageme
 I'm deeply invested in automation, decentralization, cryptocurrency, and exploring the vast realm of artificial intelligence.
 
 ## 📫 Let's Connect!
-- 🐦 Twitter: @itz4blitz
-- 🔗 LinkedIn
-- 🌐 Portfolio: justinscroggins.dev
+- 🐦 Twitter: [@itz4blitz](https://twitter.com/itz4blitz)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/justinscroggins/)
+- 🌐 [Portfolio](https://justinscroggins.dev)
+
 
 💡 Collaboration sparks innovation! Dive into my repositories and let's create something revolutionary.
 
