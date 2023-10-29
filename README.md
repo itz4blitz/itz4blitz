@@ -1,7 +1,7 @@
 ## 📌 About Me
 I'm a tech aficionado with a diverse background, from IT infrastructure management to cutting-edge software engineering. Through transformative initiatives and impactful roles, I've shaped the tech landscape for several top-tier organizations.
 
-- 🏢 Currently spearheading automation testing at SnapNurse, driving efficiency with Playwright, Typescript, Node.js, and Github Actions.
+- 🏢 Currently spearheading automation testing at SnapCare, driving efficiency with Playwright, Typescript, Node.js, and Github Actions.
 - 🍎 Previously, shared my knowledge as a Software Development Trainer at Eleven Fifty Academy, fostering the next generation of tech enthusiasts.
 - 🔧 Proudly enhanced IT infrastructures at Bauer Hockey & Novelty Inc., ensuring optimized tech integrations and forward-thinking strategies.
 
