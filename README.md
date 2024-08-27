@@ -2,7 +2,8 @@
 I'm a tech aficionado with a diverse background, from IT infrastructure management to cutting-edge software engineering. Through transformative initiatives and impactful roles, I've shaped the tech landscape for several top-tier organizations.
 
 - 🏢 Currently spearheading automation testing at Nymbl, driving efficiency with Playwright, Typescript, Node.js, and Bitbucket CI/CD. Previously led an automation testing effort for 2 years as a Lead Software Engineer in Test for a Med Tech Staffing Organization
-- 🍎 Previously, shared my knowledge as a Software Development Instructor at Eleven Fifty Academy for ~2 years, fostering the next generation of tech enthusiasts and worked as Backend .NET Developer building enterprise SaaS products for 2.5 years. 
+- 🍎 Previously, shared my knowledge as a Software Development Instructor at Eleven Fifty Academy for ~2 years, fostering the next generation of tech enthusiasts.
+- 🖥 Worked as a .NET Developer building enterprise SaaS products for 2.5 years with a focus on API development.
 - 🔧 Proudly enhanced IT infrastructures as a System Administrator for 5.5 years, ensuring optimized tech integrations and forward-thinking strategies.
 
 ## 🛠️ Skills & Specialties
