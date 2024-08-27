@@ -28,9 +28,9 @@ Proud of the continuous learning journey I've undertaken. Here are some recognit
 
 | Badge | Description |
 |:-----:|:------------|
-| ![MTA: Software Development](https://images.credly.com/size/110x110/images/c2537593-9f53-4901-9207-f51376ce7150/MTA-Software_Development_Fundamentals-600x600.png) | **MTA: Software Development** |
-| ![Cybersecurity Gold Badge](https://images.credly.com/size/110x110/images/2c05211c-3b35-40b7-a04c-51bccc762f4a/cybersecurity_badges_gold_600x600.png) | **Cybersecurity Gold Badge** |
-| ![Software Development Red Badge](https://images.credly.com/size/110x110/images/b512a5de-4ecf-410e-88cc-a72e31370b3c/SD_Red.png) | **Software Development Red Badge** |
-| ![Software Development Blue Badge](https://images.credly.com/size/110x110/images/2b720e39-20f1-4e9d-a915-9a1557d510e7/SD_Blue.png) | **Software Development Blue Badge** |
-| ![Software Development Gold Badge](https://images.credly.com/size/110x110/images/b3cfa3c6-f360-4636-943d-acb5b9a3a2be/SD_gold_badge.png) | **Software Development Gold Badge** |
-| ![MTA: Networking](https://images.credly.com/size/110x110/images/0c79e2b7-b5b7-4fcb-a3c0-1a5cc9b93f18/MTA-Networking-Fundamentals-2019.png) | **MTA: Networking** |
+| <img src="https://images.credly.com/size/110x110/images/c2537593-9f53-4901-9207-f51376ce7150/MTA-Software_Development_Fundamentals-600x600.png" width="110" height="110"> | **MTA: Software Development** |
+| <img src="https://images.credly.com/size/110x110/images/2c05211c-3b35-40b7-a04c-51bccc762f4a/cybersecurity_badges_gold_600x600.png" width="110" height="110"> | **Cybersecurity Gold Badge** |
+| <img src="https://images.credly.com/size/110x110/images/b512a5de-4ecf-410e-88cc-a72e31370b3c/SD_Red.png" width="110" height="110"> | **Software Development Red Badge** |
+| <img src="https://images.credly.com/size/110x110/images/2b720e39-20f1-4e9d-a915-9a1557d510e7/SD_Blue.png" width="110" height="110"> | **Software Development Blue Badge** |
+| <img src="https://images.credly.com/size/110x110/images/b3cfa3c6-f360-4636-943d-acb5b9a3a2be/SD_gold_badge.png" width="110" height="110"> | **Software Development Gold Badge** |
+| <img src="https://images.credly.com/size/110x110/images/0c79e2b7-b5b7-4fcb-a3c0-1a5cc9b93f18/MTA-Networking-Fundamentals-2019.png" width="110" height="110"> | **MTA: Networking** |
