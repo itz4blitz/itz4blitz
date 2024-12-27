@@ -1,33 +1,44 @@
-## 📌 About Me
-I'm a tech aficionado with a diverse background, from IT infrastructure management to cutting-edge software engineering. Through transformative initiatives and impactful roles, I've shaped the tech landscape for several top-tier organizations.
+# 💻 Mastering Technology, Driving Innovation
 
-- 🏢 Currently spearheading automation testing at Nymbl, driving efficiency with Playwright, Typescript, Node.js, and Bitbucket CI/CD. Previously led an automation testing effort for 2 years as a Lead Software Engineer in Test for a Med Tech Staffing Organization
-- 🍎 Previously, shared my knowledge as a Software Development Instructor at Eleven Fifty Academy for ~2 years, fostering the next generation of tech enthusiasts.
-- 🖥 Worked as a .NET Developer building enterprise SaaS products for 2.5 years with a focus on API development.
-- 🔧 Proudly enhanced IT infrastructures as a System Administrator for 5.5 years, ensuring optimized tech integrations and forward-thinking strategies.
+## 🚀 About Me
+I'm a tech polymath who transforms complex challenges into elegant solutions. From revolutionizing healthcare data interoperability to scaling enterprise infrastructures, I bring a unique blend of deep technical expertise and innovative problem-solving to every project.
 
-## 🛠️ Skills & Specialties
-- Languages: Javascript, Typescript, C#, Rust, Php, SQL
-- Frameworks & Stacks: Node.js, Electron, React, Tauri, Blazor, ASP.NET, CodeIgniter
-- Tools & Tech: Playwright, WebdriverIO, Appium, Github Actions, .NET, Web API, MVC, Docker, CI/CD Pipelines, YML Configuration
-- Infrastructure Mastery: Unified Endpoint Management (UEM), Remote Monitoring & Management (RMM), Windows & Linux Server Administration, Firewall/Router/Switch Management, System Management, Dedicated Support
+- **Quovis**: Senior Software Engineer pioneering FHIR interoperability solutions and healthcare data transformation tools. Leading development of Chrome extensions, microservices, and advanced form builders.
+- **Med Tech & O&P SaaS**: Lead Software Engineer in Test, where I architected comprehensive automation frameworks for web, mobile, and API testing while mentoring junior engineers.
+- **Eleven Fifty Academy**: Software Development Instructor who shaped the next generation of developers, focusing on practical, industry-ready skills.
+- **.NET Developer**: Built scalable logistics APIs and enterprise SaaS solutions, specializing in high-throughput systems.
+- **System Administrator**: Transformed Bauer Hockey's IT infrastructure, implementing future-proof solutions and automated workflows.
 
-## 🌱 Interests
-I'm deeply invested in automation, decentralization, cryptocurrency, and exploring the vast realm of artificial intelligence.
+## 🛠️ Tech Arsenal
 
+### Core Engineering
+- **Languages**: Go, TypeScript, C#, Rust - I choose the right tool for each unique challenge
+- **API Development**: RESTful architectures, FHIR implementations, real-time data processing
+- **Database Mastery**: PostgreSQL optimization, Redis caching, vector databases for ML applications
 
-💡 Collaboration sparks innovation! Dive into my repositories and let's create something revolutionary.
+### Frontend Craftsmanship
+- **Modern Web**: React with Next.js/Vite, Tailwind CSS, Chrome Extensions
+- **Desktop Apps**: Tauri for cross-platform applications
+- **Testing**: Comprehensive E2E testing with Playwright and WebdriverIO
 
+### Infrastructure & DevOps
+- **Cloud Architecture**: Kubernetes orchestration, Terraform IaC, multi-tenant systems
+- **Observability**: Prometheus/Grafana stacks, distributed tracing, log aggregation
+- **Security**: Zero Trust implementations, WAF configurations, HIPAA compliance
 
-## 🎖️ Certifications & Badges
+### Healthcare Tech Expertise
+- **FHIR Standards**: Deep understanding of healthcare interoperability patterns
+- **Data Transformation**: Building pipelines for converting legacy healthcare data to FHIR
+- **Compliance**: Implementing HIPAA-compliant architectures and workflows
 
-Proud of the continuous learning journey I've undertaken. Here are some recognitions:
+## 🔍 Special Powers
+I specialize in turning complex systems into manageable, automated workflows. Whether it's healthcare data interoperability, infrastructure scaling, or developer tooling, I build solutions that last. My superpower? Making the complex simple and the manual automatic.
 
-| Badge | Description |
-|:-----:|:------------|
-| <img src="https://images.credly.com/size/110x110/images/c2537593-9f53-4901-9207-f51376ce7150/MTA-Software_Development_Fundamentals-600x600.png" width="110" height="110"> | **MTA: Software Development** |
-| <img src="https://images.credly.com/size/110x110/images/2c05211c-3b35-40b7-a04c-51bccc762f4a/cybersecurity_badges_gold_600x600.png" width="110" height="110"> | **Cybersecurity Gold Badge** |
-| <img src="https://images.credly.com/size/110x110/images/b512a5de-4ecf-410e-88cc-a72e31370b3c/SD_Red.png" width="110" height="110"> | **Software Development Red Badge** |
-| <img src="https://images.credly.com/size/110x110/images/2b720e39-20f1-4e9d-a915-9a1557d510e7/SD_Blue.png" width="110" height="110"> | **Software Development Blue Badge** |
-| <img src="https://images.credly.com/size/110x110/images/b3cfa3c6-f360-4636-943d-acb5b9a3a2be/SD_gold_badge.png" width="110" height="110"> | **Software Development Gold Badge** |
-| <img src="https://images.credly.com/size/110x110/images/0c79e2b7-b5b7-4fcb-a3c0-1a5cc9b93f18/MTA-Networking-Fundamentals-2019.png" width="110" height="110"> | **MTA: Networking** |
+## 🌱 Current Focus
+- Diving deep into healthcare interoperability standards and FHIR implementations
+- Exploring AI/ML applications in healthcare data processing
+- Building tools that make developers' lives easier
+- Contributing to open-source healthcare projects
+
+> **Want to collaborate on something groundbreaking?**  
+> Check out my repositories or reach out to discuss innovative solutions in healthcare tech, automation, or infrastructure.
