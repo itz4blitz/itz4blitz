@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a tech polymath who transforms complex challenges into elegant solutions. From revolutionizing healthcare data interoperability to scaling enterprise infrastructures, I bring a unique blend of deep technical expertise and innovative problem-solving to every project.
 
-- **Quovis**: Senior Software Engineer pioneering FHIR interoperability solutions and healthcare data transformation tools. Leading development of Chrome extensions, microservices, and advanced form builders.
 - **Med Tech & O&P SaaS**: Lead Software Engineer in Test, where I architected comprehensive automation frameworks for web, mobile, and API testing while mentoring junior engineers.
 - **Eleven Fifty Academy**: Software Development Instructor who shaped the next generation of developers, focusing on practical, industry-ready skills.
 - **.NET Developer**: Built scalable logistics APIs and enterprise SaaS solutions, specializing in high-throughput systems.
