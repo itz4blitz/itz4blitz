@@ -3,15 +3,10 @@
 ## 🚀 About Me
 I'm a tech polymath who transforms complex challenges into elegant solutions. From revolutionizing healthcare data interoperability to scaling enterprise infrastructures, I bring a unique blend of deep technical expertise and innovative problem-solving to every project.
 
-- **Med Tech & O&P SaaS**: Lead Software Engineer in Test, where I architected comprehensive automation frameworks for web, mobile, and API testing while mentoring junior engineers.
-- **Eleven Fifty Academy**: Software Development Instructor who shaped the next generation of developers, focusing on practical, industry-ready skills.
-- **.NET Developer**: Built scalable logistics APIs and enterprise SaaS solutions, specializing in high-throughput systems.
-- **System Administrator**: Transformed Bauer Hockey's IT infrastructure, implementing future-proof solutions and automated workflows.
-
 ## 🛠️ Tech Arsenal
 
 ### Core Engineering
-- **Languages**: Go, TypeScript, C#, Rust - I choose the right tool for each unique challenge
+- **Languages**: Typescript, Python, .NET, Go, C#, Rust - I choose the right tool for each unique challenge
 - **API Development**: RESTful architectures, FHIR implementations, real-time data processing
 - **Database Mastery**: PostgreSQL optimization, Redis caching, vector databases for ML applications
 
@@ -34,10 +29,8 @@ I'm a tech polymath who transforms complex challenges into elegant solutions. Fr
 I specialize in turning complex systems into manageable, automated workflows. Whether it's healthcare data interoperability, infrastructure scaling, or developer tooling, I build solutions that last. My superpower? Making the complex simple and the manual automatic.
 
 ## 🌱 Current Focus
-- Diving deep into healthcare interoperability standards and FHIR implementations
-- Exploring AI/ML applications in healthcare data processing
+- Building AI Agents with [Agentful](https://github.com/itz4blitz/agentful)
+- Streamlining Root Cause Analysis using AI with [Logarr](https://github.com/itz4blitz/Logarr)
+- Integrating Function Calling LLM's with Java JVM in [JMX-MCP](https://github.com/itz4blitz/JMX-MCP)
 - Building tools that make developers' lives easier
 - Contributing to open-source healthcare projects
-
-> **Want to collaborate on something groundbreaking?**  
-> Check out my repositories or reach out to discuss innovative solutions in healthcare tech, automation, or infrastructure.
