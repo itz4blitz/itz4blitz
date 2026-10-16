@@ -11,7 +11,7 @@ Full-stack engineer. Rust and TypeScript, Go when the job is a CLI. Local-first 
 
 - **[ai-tools](https://github.com/itz4blitz/ai-tools)** — one set of MCP servers, skills, agents, rules, and hooks across coding tools.
 - **[ArcInfer](https://github.com/itz4blitz/ArcInfer)** — encrypted sentiment classification. The text goes in, only the result comes out. [arcinfer.pages.dev](https://arcinfer.pages.dev)
-- **[mcp-linear](https://github.com/tacticlaunch/mcp-linear)** — Linear from an assistant.
+- **[llms2md](https://github.com/PremierStudio/llms2md)** — turn any llms.txt into a local Markdown docs tree.
 
 ## Also
 
