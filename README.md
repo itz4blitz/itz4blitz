@@ -1,8 +1,4 @@
-<img src="./profile-chart.svg" alt="8,688 contributions this year. Code review, issues, pull requests, and commits each clear a strong year." width="880">
-
 Full-stack engineer. Rust and TypeScript, Go when the job is a CLI. Local-first software, media systems, and the tooling around AI coding agents.
-
-The chart scores each kind of work against a strong year: 50 reviews, 100 issues, 200 pull requests, 1,000 commits. GitHub's own activity diamond plots share of the total, so commits take that shape.
 
 ## Now
 
