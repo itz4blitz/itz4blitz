@@ -6,7 +6,6 @@ Full-stack engineer. Rust and TypeScript, Go when the job is a CLI. Local-first 
 - **[Gunmetal](https://github.com/itz4blitz/gunmetal)** — media server and player. Files play as they are. [gunmetal.tv](https://gunmetal.tv)
 - **[Logarr](https://github.com/itz4blitz/Logarr)** — logs from your servers, with issues ranked by impact.
 - **[Premier](https://github.com/itz4blitz/premier)** — local-first flight recorder for AI agent sessions.
-- **[acidtest](https://github.com/itz4blitz/acidtest)** — mutation testing as a ledger lookup. Same answer as the full run, without redoing the work.
 
 ## Agent tooling
 
